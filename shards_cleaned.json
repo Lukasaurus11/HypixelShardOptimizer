@@ -1497,7 +1497,16 @@
             ]
           },
           {
-            "family": "Cave Dweller",
+            "family": "Cave Dweller"
+          }
+        ],
+        [
+          {
+            "shards": [
+              "Quartzfang"
+            ]
+          },
+          {
             "shards": [
               "Silentdepth"
             ]
@@ -2467,7 +2476,16 @@
             ]
           },
           {
-            "rarity": "Legendary+",
+            "rarity": "Legendary+"
+          }
+        ],
+        [
+          {
+            "shards": [
+              "Lapis Skeleton"
+            ]
+          },
+          {
             "shards": [
               "Ghost"
             ]
