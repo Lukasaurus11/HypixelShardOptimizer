@@ -1,5 +1,4 @@
 {
-  "$schema": "./shard.schema.json",
   "shards": {
     "Grove":{
         "productID": "SHARD_GROVE",

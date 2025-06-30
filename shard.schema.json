@@ -14,15 +14,23 @@
           },
           "type": { "type": "string" },
           "rarity": { "type": "string" },
+          "productID": { "type": "string" },
           "fusion": {
             "type": "array",
             "items": {
-              "type": "object",
-              "properties": {
-                "family": { "type": "string" },
-                "type": { "type": "string" },
-                "rarity": { "type": "string" },
-                "shardId": { "type": "string" }
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "family": { "type": "string" },
+                  "type": { "type": "string" },
+                  "rarity": { "type": "string" },
+                  "shards": {
+                    "type": "array",
+                    "items": { "type": "string" }
+                  }
+                },
+                "additionalProperties": false
               }
             }
           }
