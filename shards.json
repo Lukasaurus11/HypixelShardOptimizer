@@ -356,7 +356,7 @@
         "productID": "SHARD_CROW",
         "id":"19",
         "name": "Crow",
-        "family": ["Sparrow"],
+        "family": ["Bird"],
         "type": "Forest",
         "rarity": "Common",
         "fusion": [
