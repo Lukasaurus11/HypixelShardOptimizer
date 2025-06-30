@@ -10,14 +10,14 @@
         "rarity": "Common",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Common",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Uncommon+",
                 "family":"",
                 "shards":""
             }
@@ -32,14 +32,14 @@
         "rarity": "Common",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Common",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Uncommon+",
                 "family":"",
                 "shards":""
             }
@@ -54,14 +54,14 @@
         "rarity": "Common",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Combat",
+                "rarity":"Uncommon",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Uncommon+",
                 "family":"",
                 "shards":""
             }
@@ -298,12 +298,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Shulker",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Common+",
                 "family":"",
                 "shards":""
             }
@@ -452,11 +452,11 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Bird",
                 "shards":""
             },
             {
-                "type":"",
+                "type":"Combat",
                 "rarity":"",
                 "family":"",
                 "shards":""
@@ -584,12 +584,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Bird",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Common+",
                 "family":"",
                 "shards":""
             }
@@ -606,11 +606,11 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Axolotl",
                 "shards":""
             },
             {
-                "type":"",
+                "type":"Water",
                 "rarity":"",
                 "family":"",
                 "shards":""
@@ -643,19 +643,19 @@
         "productID": "SHARD_BRAMBLE",
         "id":"1",
         "name": "Bramble",
-        "family": [""],
+        "family": ["Elemental"],
         "type": "Forest",
         "rarity": "Uncommon",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Uncommon",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -670,14 +670,14 @@
         "rarity": "Uncommon",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Uncommon",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -692,14 +692,14 @@
         "rarity": "Uncommon",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Combat",
+                "rarity":"Uncommon",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -739,10 +739,10 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Golden Ghoul"
             },
             {
-                "type":"",
+                "type":"Water",
                 "rarity":"",
                 "family":"",
                 "shards":""
@@ -760,18 +760,18 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Cave Dweller",
                 "shards":""
             },
             {
-                "type":"",
+                "type":"Combat",
                 "rarity":"",
                 "family":"",
                 "shards":""
             }
         ]
     },
-    "Hidoencave":{
+    "Hideoncave":{
         "productID": "SHARD_HIDEONCAVE",
         "id":"7",
         "name": "Hideoncave",
@@ -782,13 +782,13 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Shulker",
                 "shards":""
             },
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Cave Dweller",
                 "shards":""
             }
         ]
@@ -804,11 +804,11 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Lizard",
                 "shards":""
             },
             {
-                "type":"",
+                "type":"Water",
                 "rarity":"",
                 "family":"",
                 "shards":""
@@ -826,13 +826,13 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Shulker",
                 "shards":""
             },
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Reptile",
                 "shards":""
             }
         ]
@@ -871,10 +871,10 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Tadgang"
             },
             {
-                "type":"",
+                "type":"Forest",
                 "rarity":"",
                 "family":"",
                 "shards":""
@@ -1003,10 +1003,10 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Cuboa"
             },
             {
-                "type":"",
+                "type":"Combat",
                 "rarity":"",
                 "family":"",
                 "shards":""
@@ -1025,13 +1025,13 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Pest"
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Pest"
             }
         ]
     },
@@ -1244,12 +1244,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Bird",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Uncommon+",
                 "family":"",
                 "shards":""
             }
@@ -1310,11 +1310,11 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Frog",
                 "shards":""
             },
             {
-                "type":"",
+                "type":"Combat",
                 "rarity":"",
                 "family":"",
                 "shards":""
@@ -1332,14 +1332,14 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Bug",
                 "shards":""
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Praying Mantis"
             }
         ]
     },
@@ -1347,19 +1347,19 @@
         "productID": "SHARD_SYLVAN",
         "id":"1",
         "name": "Sylvan",
-        "family": [""],
+        "family": ["Elemental"],
         "type": "Forest",
         "rarity": "Rare",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Rare",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Epic+",
                 "family":"",
                 "shards":""
             }
@@ -1374,14 +1374,14 @@
         "rarity": "Rare",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Rare",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Epic+",
                 "family":"",
                 "shards":""
             }
@@ -1396,14 +1396,14 @@
         "rarity": "Rare",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Combat",
+                "rarity":"Rare",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Epic+",
                 "family":"",
                 "shards":""
             }
@@ -1420,12 +1420,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Panda",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Uncommon+",
                 "family":"",
                 "shards":""
             }
@@ -1442,12 +1442,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Frog",
                 "shards":""
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Uncommon+",
                 "family":"",
                 "shards":""
             }
@@ -1508,12 +1508,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Lizard",
                 "shards":""
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Uncommon+",
                 "family":"",
                 "shards":""
             }
@@ -1531,11 +1531,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Viper"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Combat",
+                "rarity":"Uncommon+",
                 "family":"",
                 "shards":""
             }
@@ -1596,14 +1596,14 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Shulker",
                 "shards":""
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Wither"
             }
         ]
     },
@@ -1619,11 +1619,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Lapis Zombie"
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -1641,10 +1641,10 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":["Invisibug", "Termite"]
             },
             {
-                "type":"",
+                "type":"Forest",
                 "rarity":"",
                 "family":"",
                 "shards":""
@@ -1706,13 +1706,13 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Shulker",
                 "shards":""
             },
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Demon",
                 "shards":""
             }
         ]
@@ -1809,7 +1809,7 @@
         "productID": "SHARD_SILENTDEPTH",
         "id":"29",
         "name": "Silentdepth",
-        "family": [""],
+        "family": ["Treasure Fish"],
         "type": "Water",
         "rarity": "Rare",
         "fusion": [
@@ -1839,11 +1839,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Lapis Skeleton"
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -1883,13 +1883,13 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Troglobyte"
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":["Cave Dweller", "Abyssal Lanternfish"]
             }
         ]
     },
@@ -1897,19 +1897,19 @@
         "productID": "SHARD_HIDEONRING",
         "id":"34",
         "name": "Hideonring",
-        "family": [""],
+        "family": ["Shulker"],
         "type": "Forest",
         "rarity": "Rare",
         "fusion": [
             {
                 "type":"",
-                "rarity":"",
-                "family":"",
+                "rarity":"Rare+",
+                "family":"Shulker",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2037,12 +2037,12 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Cropeetle"
             },
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Bug",
                 "shards":""
             }
         ]
@@ -2102,12 +2102,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Frog",
                 "shards":""
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2125,11 +2125,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":["Phanpyre","Phanflare"]
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2169,13 +2169,13 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Quartzfang"
             },
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
-                "shards":""
+                "family":"Cave Dweller",
+                "shards":"Silentdepth"
             }
         ]
     },
@@ -2190,12 +2190,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Cave Dweller",
                 "shards":""
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Epic+",
                 "family":"",
                 "shards":""
             }
@@ -2235,11 +2235,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Python"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Combat",
+                "rarity":"Uncommon+",
                 "family":"",
                 "shards":""
             }
@@ -2300,12 +2300,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Bird",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2381,19 +2381,19 @@
         "productID": "SHARD_TERRA",
         "id":"1",
         "name": "Terra",
-        "family": [""],
+        "family": ["Elemental"],
         "type": "Forest",
         "rarity": "Epic",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Epic",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Legendary+",
                 "family":"",
                 "shards":""
             }
@@ -2408,14 +2408,14 @@
         "rarity": "Epic",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Epic",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Legendary+",
                 "family":"",
                 "shards":""
             }
@@ -2430,14 +2430,14 @@
         "rarity": "Epic",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Combat",
+                "rarity":"Epic",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Legendary+",
                 "family":"",
                 "shards":""
             }
@@ -2454,12 +2454,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Panda",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2476,12 +2476,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Lizard",
                 "shards":""
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2499,11 +2499,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Crocodile"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Combat",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2521,11 +2521,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Bullfrog"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2543,11 +2543,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"King Cobra"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Combat",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2565,11 +2565,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Gecko"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2584,14 +2584,14 @@
         "rarity": "Epic",
         "fusion": [
             {
-                "type":"",
+                "type":"Eel",
                 "rarity":"",
                 "family":"",
                 "shards":""
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2631,12 +2631,12 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Ladybug"
             },
             {
                 "type":"",
-                "rarity":"",
-                "family":"",
+                "rarity":"Rare+",
+                "family":"Bug",
                 "shards":""
             }
         ]
@@ -2653,13 +2653,25 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Moray Eel"
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Firefly"
+            },
+            {
+                "type":"",
+                "rarity":"",
+                "family":"",
+                "shards":"Eel"
+            },
+            {
+                "type":"",
+                "rarity":"",
+                "family":"",
+                "shards":"Moray Eel"
             }
         ]
     },
@@ -2695,13 +2707,13 @@
         "fusion": [
             {
                 "type":"",
-                "rarity":"",
-                "family":"",
+                "rarity":"Rare+",
+                "family":"Shulker",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Epic+",
                 "family":"",
                 "shards":""
             }
@@ -2807,11 +2819,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Iguana"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2894,12 +2906,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Bird",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Epic",
                 "family":"",
                 "shards":""
             }
@@ -2939,11 +2951,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Alligator"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Combat",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -2961,13 +2973,13 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Lunar Moth"
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":["Bezal", "Cinderbat", "Flare", "Lava Flame", "Fire Eel", "Bal", "Flaming Spider"]
             }
         ]
     },
@@ -2983,11 +2995,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Moray Eel"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -3049,11 +3061,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Shellwise"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Rare+",
                 "family":"",
                 "shards":""
             }
@@ -3069,14 +3081,14 @@
         "fusion": [
             {
                 "type":"",
-                "rarity":"",
-                "family":"",
+                "rarity":"Rare+",
+                "family":"Cave Dweller",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
-                "family":"",
+                "rarity":"Epic+",
+                "family":"Cave Dweller",
                 "shards":""
             }
         ]
@@ -3093,12 +3105,12 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Firefly"
             },
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Dragon",
                 "shards":""
             }
         ]
@@ -3112,15 +3124,15 @@
         "rarity": "Legendary",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Legendary",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
-                "family":"",
+                "rarity":"Epic+",
+                "family":"Elemental",
                 "shards":""
             }
         ]
@@ -3134,15 +3146,15 @@
         "rarity": "Legendary",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Legendary",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
-                "family":"",
+                "rarity":"Epic+",
+                "family":"Elemental",
                 "shards":""
             }
         ]
@@ -3156,15 +3168,15 @@
         "rarity": "Legendary",
         "fusion": [
             {
-                "type":"",
-                "rarity":"",
+                "type":"Combat",
+                "rarity":"Legendary",
                 "family":"",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
-                "family":"",
+                "rarity":"Epic+",
+                "family":"Elemental",
                 "shards":""
             }
         ]
@@ -3203,11 +3215,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Caiman"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Combat",
+                "rarity":"Epic+",
                 "family":"",
                 "shards":""
             }
@@ -3225,11 +3237,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Komodo Dragon"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Forest",
+                "rarity":"Epic+",
                 "family":"",
                 "shards":""
             }
@@ -3247,11 +3259,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Leatherback"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Epic+",
                 "family":"",
                 "shards":""
             }
@@ -3291,11 +3303,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Sea Serpant"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Epic+",
                 "family":"",
                 "shards":""
             }
@@ -3313,13 +3325,13 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Lapis Skeleton"
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Legendary+",
                 "family":"",
-                "shards":""
+                "shards":"Ghost"
             }
         ]
     },
@@ -3335,11 +3347,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Dragonfly"
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Legendary+",
                 "family":"",
                 "shards":""
             }
@@ -3423,13 +3435,13 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Kraken"
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Kraken"
             }
         ]
     },
@@ -3445,10 +3457,10 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Kraken"
             },
             {
-                "type":"",
+                "type":"Water",
                 "rarity":"",
                 "family":"",
                 "shards":""
@@ -3489,12 +3501,12 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Kraken"
             },
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Bird",
                 "shards":""
             }
         ]
@@ -3509,13 +3521,13 @@
         "fusion": [
             {
                 "type":"",
-                "rarity":"",
-                "family":"",
+                "rarity":"Epic+",
+                "family":"Shulker",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Legendary+",
                 "family":"",
                 "shards":""
             }
@@ -3599,11 +3611,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Tortoise"
             },
             {
-                "type":"",
-                "rarity":"",
+                "type":"Water",
+                "rarity":"Epic+",
                 "family":"",
                 "shards":""
             }
@@ -3642,12 +3654,12 @@
             {
                 "type":"",
                 "rarity":"",
-                "family":"",
+                "family":"Bird",
                 "shards":""
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Legendary+",
                 "family":"",
                 "shards":""
             }
@@ -3665,13 +3677,13 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Shinyfish"
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Shinyfish"
             }
         ]
     },
@@ -3687,11 +3699,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Power Dragon"
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Common+",
                 "family":"",
                 "shards":""
             }
@@ -3709,11 +3721,11 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Condor"
             },
             {
                 "type":"",
-                "rarity":"",
+                "rarity":"Legendary+",
                 "family":"",
                 "shards":""
             }
@@ -3731,13 +3743,13 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Power Dragon"
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Kraken"
             }
         ]
     },
@@ -3753,13 +3765,13 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Apex Dragon"
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Kraken"
             }
         ]
     },
@@ -3775,13 +3787,13 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Sun Fish"
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Sun Fish"
             }
         ]
     },
@@ -3797,13 +3809,13 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Etherdrake"
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Jormung"
             }
         ]
     },
@@ -3817,15 +3829,15 @@
         "fusion": [
             {
                 "type":"",
-                "rarity":"",
-                "family":"",
+                "rarity":"Legendary",
+                "family":"Elemental",
                 "shards":""
             },
             {
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":""
+                "shards":"Galaxy Fish"
             }
         ]
     }
