@@ -1,5 +1,4 @@
 {
-  "$schema": "./shard.schema.json",
   "shards": {
     "Grove": {
       "productID": "SHARD_GROVE",
@@ -221,7 +220,7 @@
       "id": "19",
       "name": "Crow",
       "family": [
-        "Sparrow"
+        "Bird"
       ],
       "type": "Forest",
       "rarity": "Common",
@@ -1162,7 +1161,7 @@
     "Star Sentry": {
       "productID": "SHARD_STAR_SENTRY",
       "id": "21",
-      "name": "Star Centry",
+      "name": "Star Sentry",
       "family": [
         ""
       ],
@@ -1497,16 +1496,7 @@
             ]
           },
           {
-            "family": "Cave Dweller"
-          }
-        ],
-        [
-          {
-            "shards": [
-              "Quartzfang"
-            ]
-          },
-          {
+            "family": "Cave Dweller",
             "shards": [
               "Silentdepth"
             ]
@@ -2160,10 +2150,10 @@
         ]
       ]
     },
-    "Sea Serpant": {
+    "Sea Serpent": {
       "productID": "SHARD_SEA_SERPENT",
       "id": "32",
-      "name": "Sea Serpant",
+      "name": "Sea Serpent",
       "family": [
         "Amphibian",
         "Eel",
@@ -2449,7 +2439,7 @@
         [
           {
             "shards": [
-              "Sea Serpant"
+              "Sea Serpent"
             ]
           },
           {
@@ -2476,16 +2466,7 @@
             ]
           },
           {
-            "rarity": "Legendary+"
-          }
-        ],
-        [
-          {
-            "shards": [
-              "Lapis Skeleton"
-            ]
-          },
-          {
+            "rarity": "Legendary+",
             "shards": [
               "Ghost"
             ]

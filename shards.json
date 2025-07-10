@@ -1675,7 +1675,7 @@
     "Star Sentry":{
         "productID": "SHARD_STAR_SENTRY",
         "id":"21",
-        "name": "Star Centry",
+        "name": "Star Sentry",
         "family": [""],
         "type": "Combat",
         "rarity": "Rare",
@@ -2982,10 +2982,10 @@
             }
         ]
     },
-    "Sea Serpant":{
+    "Sea Serpent":{
         "productID": "SHARD_SEA_SERPENT",
         "id":"32",
-        "name": "Sea Serpant",
+        "name": "Sea Serpent",
         "family": ["Amphibian", "Eel", "Serpant"],
         "type": "Water",
         "rarity": "Epic",
@@ -3302,7 +3302,7 @@
                 "type":"",
                 "rarity":"",
                 "family":"",
-                "shards":"Sea Serpant"
+                "shards":"Sea Serpent"
             },
             {
                 "type":"Water",
